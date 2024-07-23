@@ -1,17 +1,15 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Girija G 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner](file:///C:/Users/dharm/OneDrive/Desktop/GIRIJA%20DL/JAVA%20GG/GITHUB_PROFILE/gg.html.png)
 
 ## 🚀 About Me
 I'm a passionate web developer, AI enthusiast, and cyber hacking hobbyist. I love teaching physics and constantly learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name](https://github.com/your-username/project-repo)**
-- 🌱 I’m currently learning **IoT and advanced AI algorithms**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **improving my AI models**
-- 💬 Ask me about **web development, AI, and physics**
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: **I love hackathons and have recently participated in [Hackathon Name](https://hackathon-link.com) where we developed a health and well-being app.**
+- 🔭 I’m currently an UnderGraduate at **VIT-CHENNAI**
+- 🌱 I’m currently learning **Ethical Hacking**
+- 💬 Ask me about **web development, AI**
+- 📫 How to reach me: **thatsgirijag@gmail.com**
+- ⚡ Fun fact: **I love hackathons and have recently participated in [Hackathon Name]([https://hackathon-link.com](https://olakino-sdg-3-health-tech-hackthon.vercel.app)) where i developed a health and well-being app.**
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
