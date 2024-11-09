@@ -7,8 +7,7 @@ I'm a passionate web developer, AI enthusiast, and cyber hacking hobbyist. I lov
 - 🔭 I’m currently an UnderGraduate at **VIT-CHENNAI**
 - 🌱 I’m currently learning **Ethical Hacking**
 - 💬 Ask me about **web development, AI**
-- 📫 How to reach me: **thatsgirijag@gmail.com**
-- ⚡ Fun fact: **I love hackathons and have recently participated in [Hackathon Name]([https://hackathon-link.com](https://olakino-sdg-3-health-tech-hackthon.vercel.app)) where i developed a health and well-being app.**
+
 
 ## 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,7 +29,6 @@ I'm a passionate web developer, AI enthusiast, and cyber hacking hobbyist. I lov
 ## 📫 Contact Me
 Feel free to reach out to me for collaboration, discussion, or just to say hi!
 
-- **Email:** thatsgirijag@gmail.com
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/girijageddavalasa/)
 
 
