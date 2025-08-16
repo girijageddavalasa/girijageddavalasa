@@ -6,7 +6,7 @@ I'm a passionate web developer, AI enthusiast, and cyber hacking hobbyist. I lov
 
 - 🔭 I’m currently an UnderGraduate at **VIT-CHENNAI**
 - 🌱 I’m currently learning **Ethical Hacking**
-- 💬 Ask me about **web development, AI**
+- 💬 Ask me about **AI**
 
 
 ## 🛠️ Languages and Tools
