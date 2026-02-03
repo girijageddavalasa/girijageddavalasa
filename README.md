@@ -1,27 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1400&color=8BE9FD&center=true&vCenter=true&width=760&lines=Girija+G;Open+Source+Contributor+in+Progress;Learning+Through+Community+and+Code;Building+with+Curiosity+and+Care" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1400&color=8BE9FD&center=true&vCenter=true&width=820&lines=Girija+G;Intern+at+Samsung+Research+and+Development;Open+Source+Focused+Learner;Building+with+Curiosity+and+Care" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80"/>
 
 ## About
 
-I am an undergraduate student at VIT Chennai who genuinely enjoys working with open-source software.  
-I am drawn to open source because it encourages thoughtful collaboration, long-term learning, and meaningful impact.
+I am an undergraduate student at VIT Chennai and currently an **Intern at Samsung Research and Development**.  
+My work and learning focus on understanding real-world systems, writing maintainable code, and contributing thoughtfully to collaborative environments.
 
-Rather than focusing on short-term metrics, I care about understanding systems, reading existing code, improving clarity, and contributing in ways that help projects grow sustainably.
+I am strongly drawn to open-source software because it values long-term thinking, community learning, and responsibility toward shared codebases. I enjoy reading existing implementations, understanding design decisions, and improving systems incrementally.
+
+---
+
+## Experience
+
+**Intern — Samsung Research and Development**
+
+- Exposure to industry-scale development practices  
+- Learning how research ideas translate into production-quality systems  
+- Emphasis on code quality, collaboration, and documentation  
+- Understanding how large teams maintain and evolve complex software  
+
+This experience has reinforced my interest in building reliable, well-designed systems and contributing to projects that outlive short-term goals.
 
 ---
 
 ## Why Open Source
 
 Open source represents:
-- Shared learning instead of isolated work  
-- Mentorship through reviews and discussions  
-- Responsibility toward users and maintainers  
-- Code that lives beyond a single project or semester  
+- Community-driven learning  
+- Mentorship through review and discussion  
+- Thoughtful engineering over quick results  
+- Software built for long-term impact  
 
-I am especially interested in contributing to projects where design decisions matter and community values are respected.
+I am motivated to grow as a contributor who understands both the technical and human aspects of collaborative development.
 
 ---
 
@@ -33,25 +46,24 @@ I am especially interested in contributing to projects where design decisions ma
 
 ---
 
-## How I Contribute
+## How I Approach Contribution
 
-- I spend time understanding the problem before writing code  
-- I prefer readable, maintainable solutions  
-- I value feedback and code reviews  
-- I document and explain decisions clearly  
-- I aim to improve small parts of a system thoughtfully  
+- Read and understand before modifying code  
+- Prefer clarity and maintainability  
+- Value feedback and iterative improvement  
+- Document reasoning and decisions  
+- Respect project conventions and community norms  
 
 ---
 
-## Current Direction
+## Current Interests
 
-I am exploring projects related to:
-- Developer tools and infrastructure  
+- Open-source developer tools  
 - AI-assisted systems  
 - Security-aware applications  
-- Documentation and usability improvements  
+- Research-oriented software projects  
 
-I am open to guidance, mentorship, and long-term collaboration.
+I am open to mentorship, long-term collaboration, and meaningful contribution opportunities.
 
 ---
 
@@ -69,5 +81,5 @@ I am open to guidance, mentorship, and long-term collaboration.
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80"/>
 
 <p align="center">
-  Open source is a long conversation, not a quick achievement
+  Learning in public. Building with intention. Contributing with care.
 </p>
