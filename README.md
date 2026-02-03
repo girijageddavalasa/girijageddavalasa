@@ -1,37 +1,63 @@
-# Hi there, I'm Girija G 👋
-_____________________________________________________________________________________________________________________________________________________________________
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0AEFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Girija+G;Web+Developer+%7C+AI+Enthusiast;Cybersecurity+and+Ethical+Hacking;Undergraduate+at+VIT+Chennai;Always+Learning+New+Technologies" />
+</p>
 
-## 🚀 About Me
-I'm a passionate web developer, AI enthusiast, and cyber hacking hobbyist. I love teaching physics and constantly learning new technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header"/>
 
-- 🔭 I’m currently an UnderGraduate at **VIT-CHENNAI**
-- 🌱 I’m currently learning **Ethical Hacking**
-- 💬 Ask me about **AI**
+## About Me
 
+I am a passionate web developer with strong interests in Artificial Intelligence and Cybersecurity.  
+I enjoy building real-world projects, learning emerging technologies, and teaching physics alongside my technical journey.
 
-## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girijageddavalasa/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mynamestgija/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/girijageddavalasa)
-
-
-## 📫 Contact Me
-Feel free to reach out to me for collaboration, discussion, or just to say hi!
-
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/girijageddavalasa/)
-
-
+- Undergraduate at **VIT Chennai**
+- Currently learning **Ethical Hacking**
+- Interested in **AI, Machine Learning, Web Development, and Security**
+- Open to collaborations and discussions
 
 ---
 
-*Generated with ❤️ by [Girija G](https://github.com/girijageddavalasa)*
+## Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,js,react,git,github,vscode,linux" />
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=girijageddavalasa&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=girijageddavalasa&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girijageddavalasa&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/girijageddavalasa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/mynamestgija/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/girijageddavalasa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Contribution Activity
+
+![Contribution Snake](https://github.com/girijageddavalasa/girijageddavalasa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+
